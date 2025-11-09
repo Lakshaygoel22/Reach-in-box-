@@ -182,9 +182,7 @@ If you cannot use Docker, you can install MongoDB and Elasticsearch directly on 
 2. Create a free cluster
 3. Get your connection string
 4. Update `.env`:
-   ```env
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/reachinbox
-   ```
+ 
 
 ### Elasticsearch Setup
 
@@ -320,4 +318,5 @@ reachinbox-backend/
 ## License
 
 ISC
+
 
